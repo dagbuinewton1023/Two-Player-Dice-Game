@@ -8,7 +8,7 @@ Two Player Dice Game to reduce boredom
 2. Open the entire folder in your code editor
 3. Run the html file 
 
-NB: It is not responsive for mobile devices. It was coded 2 years ago when i learnt Javascript to prove myself!
+NB: It is not responsive for mobile devices. It was coded in 2023 years ago when i learnt Javascript to prove myself!
 
 Have fun :)
 
